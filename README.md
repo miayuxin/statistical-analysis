@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis
+# exploratory-data-analysis
 This repository is based on material: Think Stats (Second edition) by Allen B. Downey.
 I covered below solutions of some chapter exercersices in this book to deepen my understanding of the statistics.
 
