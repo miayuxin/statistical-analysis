@@ -2,12 +2,10 @@
 
 ## Goal
 Learn to perform statistical analysis computationally, rather than mathematically, with programs written in Python. 
-
 Work on the projects to investigate a series of statistical questions and interpret the results. 
 
 ## Dataset
 This repository is based on the book: [Think Stats (Second edition)](https://www.oreilly.com/library/view/think-stats-2nd/9781491907344/) by Allen B. Downey.
-
 The dataset is the National Survey of Family Growth (NSFG) from US Centers for Disease Control and Prevention (CDC).
 
 ## Content
