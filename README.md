@@ -11,7 +11,7 @@ The dataset is the National Survey of Family Growth (NSFG) from US Centers for D
 ## Content
 I used Python to conduct the probability and statistics analysis, from collecting data and generating statistics to identifying patterns and testing hypotheses.
 
-1. Chapter 1 - Exploratory Data Analysis
+### Chapter 1 - Exploratory Data Analysis
 - Cross-validated the respondent and pregnancy files by comparing pregnum for each respondent with the number of records in the pregnancy file.
 - Used nsfg.MakePregMap to make a dictionary that maps from each caseid to a list of indices into the pregnancy DataFrame.
 
