@@ -1,5 +1,7 @@
 # statistical-analysis
-This repository is based on material: Think Stats (Second edition) by Allen B. Downey.
+
+## Purpose 
+This repository is based on the material: Think Stats (Second edition) by Allen B. Downey.
 I covered below solutions of some chapter exercersices in this book to deepen my understanding of the statistics.
 
 1. Exploratory Data Analysis
